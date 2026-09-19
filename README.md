@@ -1,2 +1,3 @@
-# MSU-Workshop
-praxtice
+### MSU-Workshop
+**practive**
+- list
